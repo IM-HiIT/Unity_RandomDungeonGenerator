@@ -1,2 +1,2 @@
 # UnityEngine-2D-RandomDungeonGenerator
- description
+ A random map generator for a 2D plane.
